@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "hotel-ui"
+  "defaultProject": "hotel-ui",
+  "cli": {
+    "analytics": "e74aab7f-5d4e-4f04-bc7e-1212bfd1eb8c"
+  }
 }
